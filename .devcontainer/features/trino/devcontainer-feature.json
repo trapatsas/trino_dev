@@ -1,0 +1,11 @@
+{
+    "id": "trino",
+    "version": "4.4.8",
+    "name": "Trino",
+    "description": "Installs Trino CLI and sets up Trino server.",
+    "options": {},
+    "installsAfter": [
+        "ghcr.io/devcontainers/features/python",
+        "./java"
+    ]
+}

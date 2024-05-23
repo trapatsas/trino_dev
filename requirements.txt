@@ -1,0 +1,10 @@
+numpy
+pyarrow
+pandas
+matplotlib
+jupyter
+sqlalchemy
+ipython-sql
+trino
+sqlalchemy-trino
+jupysql

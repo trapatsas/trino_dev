@@ -1,0 +1,8 @@
+{
+    "id": "java",
+    "version": "1.0.0",
+    "name": "Java 22",
+    "description": "Installs OpenJDK 22.",
+    "options": {},
+    "installsAfter": []
+}
